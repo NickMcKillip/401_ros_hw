@@ -1,0 +1,8 @@
+prefix=/home/engr401/SUBMISSIONS/Nick_McKillip/catkin_ws/devel
+
+Name: nick_package
+Description: Description of nick_package
+Version: 0.0.0
+Cflags: -I/home/engr401/SUBMISSIONS/Nick_McKillip/catkin_ws/devel/include -I/home/engr401/SUBMISSIONS/Nick_McKillip/catkin_ws/src/nick_package/include
+Libs: -L/home/engr401/SUBMISSIONS/Nick_McKillip/catkin_ws/devel/lib -lnick_package
+Requires: roscpp rospy std_msgs message_runtime
